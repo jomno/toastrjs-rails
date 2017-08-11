@@ -15,7 +15,9 @@ Demo can be found at http://CodeSeven.github.com/toastr
 ##  3 Easy Steps
 For other API calls, see the [demo](http://CodeSeven.github.com/toastr).
 
-1. update gemfile: gem 'toastrjs-rails'
+1. update gemfile:
+
+        gem 'toastrjs-rails'
 
 2. Add toastr.min to application.css:
 
