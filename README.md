@@ -22,7 +22,7 @@ For other API calls, see the [demo](http://CodeSeven.github.com/toastr).
 2. Add toastr.min to application.css:
 
         *= require toastr.min    
-        ( @import toastr.min; for application.scss)
+        ( @import 'toastr.min'; for application.scss)
 
 3. Add toastr.min to application.js:
 
